@@ -1,0 +1,12 @@
+Account {
+email : admin@gmail.com
+password : admin
+}
+
+proses crud ada di bagian pembelian/purchase
+
+setiap melakukan input productName maka secara otomatis akan menambahkan data tabel
+goods/barang barudan data transaksi purchase/pembelian.
+
+namun setiap melakukan pemilihan update qty of goods maka akan melakukan update jumlah
+terhadap tabel barang/goods dan menambahkan data transaksi purchase/pembelian.
