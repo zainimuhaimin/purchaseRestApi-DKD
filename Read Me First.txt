@@ -10,3 +10,5 @@ goods/barang barudan data transaksi purchase/pembelian.
 
 namun setiap melakukan pemilihan update qty of goods maka akan melakukan update jumlah
 terhadap tabel barang/goods dan menambahkan data transaksi purchase/pembelian.
+
+untuk consume-api saya biasa mengguanakan port 8001
